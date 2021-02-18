@@ -1,5 +1,5 @@
 #include <Arduino.h>
-const int LED = 5;
+const uint8_t LED = 5;
 
 void setup()
 {
